@@ -1,0 +1,72 @@
+body {
+    font-family: 'Stalinist One', cursive;
+    font-size: larger;
+}
+
+p {
+    background-color: black;
+    color: white;
+    float: right;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    max-width: 900px;
+}
+
+table {
+    font-size: 40px;
+    border-collapse: collapse;
+    table-layout: fixed;
+    border-radius: 200px;
+}
+
+td {
+    border: 15px ridge rgb(111, 0, 255);
+    border-radius: 100px;
+    background-color: rgb(192, 192, 192);
+    padding: 40px;
+    margin: 0px;
+    font-size: 40px;
+    height: 60px;
+    max-height: 60px;
+    width: 60px;
+    max-width: 60px;
+    text-align: center;
+}
+
+.twos {
+    background-color: rgb(61, 200, 235);
+    font-size: 40px;
+    height: 60px;
+    max-height: 60px;
+    width: 60px;
+    max-width: 60px;
+    text-align: center;
+}
+
+.fours {
+    background-color: rgb(41, 0, 226);
+    font-size: 40px;
+    height: 60px;
+    max-height: 60px;
+    width: 60px;
+    max-width: 60px;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: rgb(47, 14, 231);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Stalinist One', cursive;
+}
